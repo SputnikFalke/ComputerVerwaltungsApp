@@ -1,4 +1,4 @@
-package fdbwz;
+package fdbwz.Model;
 
 public class Kunde {
 }
