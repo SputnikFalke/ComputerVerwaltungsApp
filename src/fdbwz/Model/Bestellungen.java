@@ -1,5 +1,7 @@
 package fdbwz.Model;
 
-public class Bestellungen {
+import org.bson.types.ObjectId;
 
+public class Bestellungen {
+        private ObjectId objectId;
 }
