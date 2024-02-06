@@ -129,7 +129,7 @@ public class Computer implements ComputerInterface {
 
     @Override
      public ArrayList<Computer> getAll(){
-        //implementierung zu getAll
+
         return computers;
     }
 
